@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simplied quizz app using class", "simplied quizz app using class\simplied quizz app using class.csproj", "{456B5E6C-30F0-4844-90EA-E3E4083880DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456B5E6C-30F0-4844-90EA-E3E4083880DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456B5E6C-30F0-4844-90EA-E3E4083880DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456B5E6C-30F0-4844-90EA-E3E4083880DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456B5E6C-30F0-4844-90EA-E3E4083880DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD73C4F3-4E83-44EB-BDC6-18BFDA667F03}
+	EndGlobalSection
+EndGlobal

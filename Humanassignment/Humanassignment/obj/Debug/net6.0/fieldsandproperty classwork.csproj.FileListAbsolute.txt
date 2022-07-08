@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\obj\Debug\net6.0\fieldsandproperty classwork.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\obj\Debug\net6.0\fieldsandproperty classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\obj\Debug\net6.0\fieldsandproperty classwork.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\obj\Debug\net6.0\fieldsandproperty classwork.AssemblyInfo.cs
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\obj\Debug\net6.0\fieldsandproperty classwork.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\bin\Debug\net6.0\fieldsandproperty classwork.exe
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\bin\Debug\net6.0\fieldsandproperty classwork.deps.json
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\bin\Debug\net6.0\fieldsandproperty classwork.runtimeconfig.json
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\bin\Debug\net6.0\fieldsandproperty classwork.dll
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\bin\Debug\net6.0\fieldsandproperty classwork.pdb
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\obj\Debug\net6.0\fieldsandproperty classwork.dll
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\obj\Debug\net6.0\refint\fieldsandproperty classwork.dll
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\obj\Debug\net6.0\fieldsandproperty classwork.pdb
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\obj\Debug\net6.0\fieldsandproperty classwork.genruntimeconfig.cache
+C:\Users\Student\source\repos\Humanassignment\Humanassignment\obj\Debug\net6.0\ref\fieldsandproperty classwork.dll

@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\bin\Debug\net6.0\ScrabledGame.exe
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\bin\Debug\net6.0\ScrabledGame.deps.json
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\bin\Debug\net6.0\ScrabledGame.runtimeconfig.json
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\bin\Debug\net6.0\ScrabledGame.dll
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\bin\Debug\net6.0\ScrabledGame.pdb
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\obj\Debug\net6.0\ScrabledGame.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\obj\Debug\net6.0\ScrabledGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\obj\Debug\net6.0\ScrabledGame.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\obj\Debug\net6.0\ScrabledGame.AssemblyInfo.cs
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\obj\Debug\net6.0\ScrabledGame.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\obj\Debug\net6.0\ScrabledGame.dll
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\obj\Debug\net6.0\refint\ScrabledGame.dll
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\obj\Debug\net6.0\ScrabledGame.pdb
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\obj\Debug\net6.0\ScrabledGame.genruntimeconfig.cache
+C:\Users\Student\source\repos\ScrabledGame\ScrabledGame\obj\Debug\net6.0\ref\ScrabledGame.dll

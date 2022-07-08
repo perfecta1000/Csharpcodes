@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrambled-app", "Scrambled-app\Scrambled-app.csproj", "{1C31D601-CD11-4740-B569-E5C093037DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C31D601-CD11-4740-B569-E5C093037DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C31D601-CD11-4740-B569-E5C093037DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C31D601-CD11-4740-B569-E5C093037DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C31D601-CD11-4740-B569-E5C093037DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F9301A4-AC01-4227-9307-B20180BE92DE}
+	EndGlobalSection
+EndGlobal

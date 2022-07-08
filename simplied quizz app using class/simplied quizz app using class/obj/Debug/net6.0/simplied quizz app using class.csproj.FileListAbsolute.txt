@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\bin\Debug\net6.0\simplied quizz app using class.exe
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\bin\Debug\net6.0\simplied quizz app using class.deps.json
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\bin\Debug\net6.0\simplied quizz app using class.runtimeconfig.json
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\bin\Debug\net6.0\simplied quizz app using class.dll
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\bin\Debug\net6.0\simplied quizz app using class.pdb
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\obj\Debug\net6.0\simplied quizz app using class.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\obj\Debug\net6.0\simplied quizz app using class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\obj\Debug\net6.0\simplied quizz app using class.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\obj\Debug\net6.0\simplied quizz app using class.AssemblyInfo.cs
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\obj\Debug\net6.0\simplied quizz app using class.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\obj\Debug\net6.0\simplied quizz app using class.dll
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\obj\Debug\net6.0\refint\simplied quizz app using class.dll
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\obj\Debug\net6.0\simplied quizz app using class.pdb
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\obj\Debug\net6.0\simplied quizz app using class.genruntimeconfig.cache
+C:\Users\Student\source\repos\simplied quizz app using class\simplied quizz app using class\obj\Debug\net6.0\ref\simplied quizz app using class.dll

@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\QP\QP\obj\Debug\net6.0\QP.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\QP\QP\obj\Debug\net6.0\QP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\QP\QP\obj\Debug\net6.0\QP.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\QP\QP\obj\Debug\net6.0\QP.AssemblyInfo.cs
+C:\Users\Student\source\repos\QP\QP\obj\Debug\net6.0\QP.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\QP\QP\bin\Debug\net6.0\QP.exe
+C:\Users\Student\source\repos\QP\QP\bin\Debug\net6.0\QP.deps.json
+C:\Users\Student\source\repos\QP\QP\bin\Debug\net6.0\QP.runtimeconfig.json
+C:\Users\Student\source\repos\QP\QP\bin\Debug\net6.0\QP.dll
+C:\Users\Student\source\repos\QP\QP\bin\Debug\net6.0\QP.pdb
+C:\Users\Student\source\repos\QP\QP\obj\Debug\net6.0\QP.dll
+C:\Users\Student\source\repos\QP\QP\obj\Debug\net6.0\refint\QP.dll
+C:\Users\Student\source\repos\QP\QP\obj\Debug\net6.0\QP.pdb
+C:\Users\Student\source\repos\QP\QP\obj\Debug\net6.0\QP.genruntimeconfig.cache
+C:\Users\Student\source\repos\QP\QP\obj\Debug\net6.0\ref\QP.dll

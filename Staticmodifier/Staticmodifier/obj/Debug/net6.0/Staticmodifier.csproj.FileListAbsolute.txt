@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\bin\Debug\net6.0\Staticmodifier.exe
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\bin\Debug\net6.0\Staticmodifier.deps.json
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\bin\Debug\net6.0\Staticmodifier.runtimeconfig.json
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\bin\Debug\net6.0\Staticmodifier.dll
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\bin\Debug\net6.0\Staticmodifier.pdb
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\obj\Debug\net6.0\Staticmodifier.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\obj\Debug\net6.0\Staticmodifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\obj\Debug\net6.0\Staticmodifier.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\obj\Debug\net6.0\Staticmodifier.AssemblyInfo.cs
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\obj\Debug\net6.0\Staticmodifier.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\obj\Debug\net6.0\Staticmodifier.dll
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\obj\Debug\net6.0\refint\Staticmodifier.dll
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\obj\Debug\net6.0\Staticmodifier.pdb
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\obj\Debug\net6.0\Staticmodifier.genruntimeconfig.cache
+C:\Users\Student\source\repos\Staticmodifier\Staticmodifier\obj\Debug\net6.0\ref\Staticmodifier.dll

@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\testonvideo\testonvideo\bin\Debug\testonvideo.exe.config
+C:\Users\Student\source\repos\testonvideo\testonvideo\bin\Debug\testonvideo.exe
+C:\Users\Student\source\repos\testonvideo\testonvideo\bin\Debug\testonvideo.pdb
+C:\Users\Student\source\repos\testonvideo\testonvideo\obj\Debug\testonvideo.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\testonvideo\testonvideo\obj\Debug\testonvideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\testonvideo\testonvideo\obj\Debug\testonvideo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\testonvideo\testonvideo\obj\Debug\testonvideo.exe
+C:\Users\Student\source\repos\testonvideo\testonvideo\obj\Debug\testonvideo.pdb

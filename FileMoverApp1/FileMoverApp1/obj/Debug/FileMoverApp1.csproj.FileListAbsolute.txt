@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\FileMoverApp1\FileMoverApp1\bin\Debug\FileMoverApp1.exe.config
+C:\Users\Student\source\repos\FileMoverApp1\FileMoverApp1\bin\Debug\FileMoverApp1.exe
+C:\Users\Student\source\repos\FileMoverApp1\FileMoverApp1\bin\Debug\FileMoverApp1.pdb
+C:\Users\Student\source\repos\FileMoverApp1\FileMoverApp1\obj\Debug\FileMoverApp1.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\FileMoverApp1\FileMoverApp1\obj\Debug\FileMoverApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\FileMoverApp1\FileMoverApp1\obj\Debug\FileMoverApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\FileMoverApp1\FileMoverApp1\obj\Debug\FileMoverApp1.exe
+C:\Users\Student\source\repos\FileMoverApp1\FileMoverApp1\obj\Debug\FileMoverApp1.pdb

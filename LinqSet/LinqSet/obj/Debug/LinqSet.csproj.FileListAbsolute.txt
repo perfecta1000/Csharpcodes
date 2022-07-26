@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\LinqSet\LinqSet\bin\Debug\LinqSet.exe.config
+C:\Users\Student\source\repos\LinqSet\LinqSet\bin\Debug\LinqSet.exe
+C:\Users\Student\source\repos\LinqSet\LinqSet\bin\Debug\LinqSet.pdb
+C:\Users\Student\source\repos\LinqSet\LinqSet\obj\Debug\LinqSet.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\LinqSet\LinqSet\obj\Debug\LinqSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\LinqSet\LinqSet\obj\Debug\LinqSet.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\LinqSet\LinqSet\obj\Debug\LinqSet.exe
+C:\Users\Student\source\repos\LinqSet\LinqSet\obj\Debug\LinqSet.pdb

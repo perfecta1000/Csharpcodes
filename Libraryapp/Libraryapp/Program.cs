@@ -8,7 +8,7 @@ namespace Libraryapp
             Console.WriteLine("                             WELCOME TO THE LIBRARY APPLICATION \n\n");
             int choose;
 
-            Console.Write("                     ENTER [1] TO BORROW A BOOK OR [2] TO RETURN A BOOK BORROWED \n");
+            Console.WriteLine("                     ENTER [1] TO BORROW A BOOK OR [2] TO RETURN A BOOK BORROWED \n");
 
             try
             {
@@ -24,7 +24,7 @@ namespace Libraryapp
                         Returnbook();
 
                         break;
-
+                         
                     default:
                         Console.WriteLine("Kindly choose from the given options.");
                         break;
@@ -63,15 +63,16 @@ namespace Libraryapp
                         Console.WriteLine($"{op} HAS BEEN SUCCESFULLY BORROWED OUT!! \n");
                         Console.WriteLine("THE LIST OF THE REMAINING BOOKS ARE BELOW");
                     }
+                   
                     else if (books.Count == 0)
                     {
                         Console.WriteLine("Empty Libraby!!!All books have been borrowed \n");
                     }
-                    else if (books.Contains(op) == false)
+                    else if  (books.Contains(op) == false)
                     {
                         Console.WriteLine("WRONG INPUT!!! PLEASE ENTER THE CORRECT BOOK \n");
                     }
-                    
+
                 }
             }
             static void Returnbook()

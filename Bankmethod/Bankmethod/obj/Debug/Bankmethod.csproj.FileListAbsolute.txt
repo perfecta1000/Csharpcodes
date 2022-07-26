@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\Bankmethod\Bankmethod\bin\Debug\Bankmethod.exe.config
+C:\Users\Student\source\repos\Bankmethod\Bankmethod\bin\Debug\Bankmethod.exe
+C:\Users\Student\source\repos\Bankmethod\Bankmethod\bin\Debug\Bankmethod.pdb
+C:\Users\Student\source\repos\Bankmethod\Bankmethod\obj\Debug\Bankmethod.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Bankmethod\Bankmethod\obj\Debug\Bankmethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\Bankmethod\Bankmethod\obj\Debug\Bankmethod.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Bankmethod\Bankmethod\obj\Debug\Bankmethod.exe
+C:\Users\Student\source\repos\Bankmethod\Bankmethod\obj\Debug\Bankmethod.pdb

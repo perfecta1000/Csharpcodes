@@ -31,7 +31,7 @@ namespace FileMoverApp1
                         }
                         catch (Exception)
                         {
-                            Console.WriteLine("image already exists in both folder");
+                            Console.WriteLine("image already exists in both folder ");
                         }
                     }
                     else

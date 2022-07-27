@@ -11,36 +11,38 @@ namespace FileMoverApp1
         static void Main(string[] args)
         {
             string Root = @"C:\Users\Student\Downloads";
-            var Roots = Directory.GetFiles(Root, "*.JPG.", SearchOption.AllDirectories);
+            string[] Roots = Directory.GetFiles(Root, "*.JPG");
             string newpath = @"C:\Users\Student\Downloads\ImageFolder\";
-            Directory.CreateDirectory(newpath);
-            string destinationfolder = @"C:\Users\Student\Downloads\ImageFolder\";
-            bool directoryExits = Directory.Exists(Root);
 
-            try
+            if (Roots.Length == 0)
             {
-
+                Console.WriteLine("No image is remaining");
+            }
+            else
+            {
                 foreach (string file in Roots)
                 {
-                    //File.Move(file, $"{destinationfolder} {Path.GetFileName(file)}");
-
-                    if (directoryExits)
+                    if (Directory.Exists(newpath))
                     {
-                        File.Move(file, $"{destinationfolder} {Path.GetFileName(file)}");
+                        try
+                        {
+                            File.Move(file, $"{newpath}{Path.GetFileName(file)}");
+                            Console.WriteLine("successful");
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("image already exists in both folder");
+                        }
                     }
                     else
                     {
-                        Console.WriteLine("Images does not exist");
+                        Directory.CreateDirectory(newpath);
+                        File.Move(file, $"{newpath}{Path.GetFileName(file)}");
                     }
+                    
                 }
             }
-            
-            catch (Exception)
-            {
-                Console.WriteLine("Please kindly note, you alredy have the image in both folder");
-            }
-
-            Console.ReadLine();
+        Console.ReadLine();
         }
     }
 }
